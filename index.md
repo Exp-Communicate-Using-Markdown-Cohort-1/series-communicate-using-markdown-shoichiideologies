@@ -11,4 +11,12 @@ My first Markdown image:
 My first Markdown codeblock:
 ```
 This is a codeblock.
+```
+My first Markdown task list:
+- [x] Step 1
+- [x] Step 2
+- [x] Step 3
+- [x] Step 4
+- [ ] Step 5
+- [ ] Step 6
 
